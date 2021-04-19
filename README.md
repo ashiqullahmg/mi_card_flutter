@@ -2,7 +2,7 @@
 
 A new Flutter application.
 ## This is a simple Flutter UI Card
-  This is my first application in Flutter. In runApp() I have called MyApp which is a stateless widget, where I have return MaterialApp. In MaterialApp property "home:" I have used Scafold. I din't want to have an appBar and due to that reason, I did enclosed everyhing in a SafeArea. 
+  This is my first application in Flutter. In runApp() I have called MyApp which is a stateless widget, where I have return MaterialApp. In MaterialApp property "home:" I have used Scafold. I din't want to have an appBar and due to that reason, I did enclosed everyhing in a SafeArea. Custom fonts from fonts.google.com are being used in this project. 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
